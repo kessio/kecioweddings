@@ -20,7 +20,7 @@
         <title><?php echo $title ;?></title> 
        
        
-        <base href="http://localhost/kecioweddings/"> 
+        <base href="https://git.heroku.com/kecioweddings.git"> 
         <link rel="manifest" href="site.webmanifest">
                <!-- Favicons
         ================================================== -->
